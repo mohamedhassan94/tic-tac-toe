@@ -1,19 +1,17 @@
 # Tic-Tac-Toe
 
 Tic-tac-toe, often known as Xs and Os, is a game for two players, X and O, who take turns marking spaces on a 3x3 grid. The winner is the player who successfully arranges three of their marks in a diagonal, horizontal, or vertical row.
-
-
-## Source of Data
+To start the game, you only need to click on any box and the computer will play back. The winner is who manages to fill 3 boxes horizontally or vertically or diagonally first.
+Enjoy !
 
 Live URL: (https://tic-tac-toe-mohamed-hassan.netlify.app/)
-
 
 ## Dependencies
 
 **JavaScript**
 
-**Sass** for making HTTP requests.
+**Sass**
 
-**CSS** for making HTTP requests.
+**CSS**
 
-**HTML** for building the charts.
+**HTML**
